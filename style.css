@@ -1,0 +1,229 @@
+/* universel selector start */
+*{
+    margin:0;
+    padding:0;
+}
+/* universel selector end */
+
+
+/* body start */
+body{
+    font-family: "Playfair Display", serif;
+    background-color:rgba(218, 213, 219, 0.89)
+}
+/* body end */
+
+
+
+/* container start */
+.container{
+    max-width: 800px;
+    background-color: rgba(189, 235, 238, 0.952);
+    margin: 20px auto;
+    padding:20px;
+}
+/* container end */
+
+
+
+
+/* heading section start */
+
+    /* profile image start */
+    .profile-image{
+        height: 150px;
+        width: 120px;
+        border: 5px solid rgb(31, 216, 230);
+        border-radius: 50%;
+        padding: 10px;
+        float:left;
+        border:none;
+    }
+    /* profile image end */
+
+
+    /* bio profile start */
+    .bio-profile{
+        float:left;
+        padding: 30px;
+        font-size: 16px;
+        margin-top: 15px;
+    }
+    /* bio profile end */
+
+
+
+    /* bio conact start */
+    .bio-contact{
+        float:right;
+        padding: 35px;
+    }
+    /* bio contact end */
+
+
+    /* bio-contact a start */
+    .bio-contact a{
+        text-decoration: none;
+        color:rgba(114, 20, 94, 0.897);
+        font-weight:bolder;
+    }
+    /* bio-contact a end */
+
+
+    /* bio-contact a:hover start */
+    .bio-contact a:hover{
+        text-decoration: underline;
+        color:red;
+    }
+    /* bio-contact a:hover end */
+
+    /*  h1, h2, h3, h4, h5, h6 start*/
+    h1, h2, h3, h4, h5, h6{
+        color:rgba(114, 20, 94, 0.897);
+    }
+    /*  h1, h2, h3, h4, h5, h6 start*/
+
+
+    /* div clear start */
+    .div-clear{
+        clear:both;
+    }
+    /* div clear end */
+
+/* heading section end */
+
+
+/* hr sart */
+hr{
+    width: 100%;
+    border:2px solid black;
+    margin:30px auto;
+}
+/* hr end */
+
+
+/* ------------------------
+    Personal section start
+--------------------------- */
+
+#personal-section{
+
+}
+.content{
+
+}
+.div-left{
+    max-width: 25%;
+    float:left;
+    padding: 20px;
+}
+.div-right{
+    max-width: 75%;
+    float:right;
+    padding: 20px;
+}
+
+.comon-hr{
+    border: 1px solid black;
+    border-bottom:none;
+    margin: 20px auto;
+}
+
+
+/* ------------------------
+    Objective section start
+--------------------------- */
+
+#objective-section{
+
+}
+.content{
+
+}
+.div-left{
+    max-width: 25%;
+    float:left;
+    padding: 20px;
+}
+.div-right{
+    max-width: 75%;
+    float:right;
+    padding: 20px;
+}
+
+.comon-hr{
+    border: 1px solid black;
+    border-bottom:none;
+    margin: 20px auto;
+}
+
+/* ------------------------
+    Education section start
+--------------------------- */
+
+#education-section{
+
+}
+.edu-template-left{
+    width:45%;
+    float:left;
+
+    
+    
+}
+.edu-template-right{
+    width: 45%;
+    float: right;
+    margin-right: 20px;
+   
+    
+    
+}
+.div-left-edu{
+    max-width: 75%;
+    float:right;
+    padding: 25%px;
+    margin:5px auto;
+
+
+}
+
+
+/* ------------------------
+    Language section start
+--------------------------- */
+
+#language-section{
+
+}
+
+
+
+/* ------------------------
+    Footer start
+--------------------------- */
+
+.bottom-container{
+    background-color: black;
+    padding: 13px;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+
+}
+.bottom-container a{
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    color:white;
+    margin: 10px;
+}
+
+.bottom-container p{
+    color: white;
+    margin: 10px;
+    margin-bottom: 0;
+}
+
+
+
